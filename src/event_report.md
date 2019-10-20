@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/ugokuhikari/ugokuhikari.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+![Image](https://photos.google.com/u/1/album/AF1QipNTaGhNCgJq5FsVCTwwhCYXu8jVXdDg002stFyq/photo/AF1QipNUb3rqbprKGVh_b4nAV-6hqdceMjR1cLDyDdgS)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
