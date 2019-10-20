@@ -32,8 +32,8 @@ layout: default
 カップルで楽しむ姿も
 <table border="0">
 <tr>
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten7.jpg?raw=true"></td>
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten8.jpg?raw=true"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten9.jpg?raw=true"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten10.jpg?raw=true"></td>
 </tr>
 </table>
 
