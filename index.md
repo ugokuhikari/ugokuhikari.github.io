@@ -39,7 +39,7 @@ NIKE @womb
 
 > TOKYO　AFTER　DARK ― 「夜の東京は、みんなでカラダを動かす遊び場」をテーマに、これまで体験したことのない演出やコンテンツのイベント。
 
-![Nike](https://github.com/ugokuhikari/photo/blob/master/nike.JPG)
+![Nike](https://github.com/ugokuhikari/photo/blob/master/nike.JPG?raw=true)
 
 7/3には、渋谷のクラブWombに一夜限りのフットサルコートが出現。ボールを動かすほどにコートが光で彩られていく、初心者でも楽しめる新感覚のチーム対抗サッカーイベント。光のインスタレーションと、クラブならではのDJによって創り上げられる非日常な空間で友達と一緒に盛り上がろう！
 
@@ -53,7 +53,7 @@ NIKE @womb
 
 楽天ブースの一角で楽しめる「Rakuten OPEN HIKARI×PADEL」は、テニスとスカッシュを合わせたようなラケット競技である、パデルをプレーしながら、ボールの軌道に合わせて壁が光で彩られていく、初心者でも楽しめる新感覚のアクティビティです。本イベントでは、弊社が東京大学発のパフォーマンスチーム「動ku光」と共催したイベント「#ヒカサカ」で活用したテクノロジーやノウハウが応用されている．
 
-~Hikari×Padel~
+- ~Hikari×Padel~
 - 「ヒカリパデル」
 - 主催：Rakuten
 - 共催：PlayNEW・動Ku光
