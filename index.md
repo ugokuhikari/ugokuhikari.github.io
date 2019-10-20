@@ -30,7 +30,7 @@ layout: default
 
 全国の各支社と双方向のオンライン通信を実施。720名の社員とモニター越しにコミュニケーションを取り、計1100名（男性社員も含む）もの大所帯となった。また、同イベントは東京大学の大学院生による“光”をテーマにしたイタラクティブパフォーマンスチーム「動 Ku 光」が監修。東京都社会人サッカーリーグ3部のTOKYO CITY F.C.とコラボし、パスやドリブルを光のアートで魅せるパフォーマンスを披露した。さらに、フリースタイルフットボール集団「ArtiSTARE」によるパフォーマンスや、タレントのシンディーさんが特技のものまねを披露しながらJリーグの楽しみ方をプレゼンするなど、大きな盛り上がりを見せた。
 
-![Meiji](https://drive.google.com/file/d/1RIBL4mzNwWpY44sRBTmGr6hsfoU4XFmX/view?usp=sharing)
+![Meiji](https://github.com/ugokuhikari/photo/blob/master/meiji.jpg)
 
 [引用元](https://www.soccer-king.jp/news/japan/jl/20181002/841273.html)
 
@@ -39,7 +39,7 @@ NIKE @womb
 
 > TOKYO　AFTER　DARK ― 「夜の東京は、みんなでカラダを動かす遊び場」をテーマに、これまで体験したことのない演出やコンテンツのイベント。
 
-![Nike](https://drive.google.com/file/d/1jzdOhWvFFzfg9yKFoqeiQHWbdkhUrQVX/view?usp=sharing)
+![Nike](https://github.com/ugokuhikari/photo/blob/master/nike.JPG)
 
 7/3には、渋谷のクラブWombに一夜限りのフットサルコートが出現。ボールを動かすほどにコートが光で彩られていく、初心者でも楽しめる新感覚のチーム対抗サッカーイベント。光のインスタレーションと、クラブならではのDJによって創り上げられる非日常な空間で友達と一緒に盛り上がろう！
 
