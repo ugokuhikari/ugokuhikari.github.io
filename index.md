@@ -59,6 +59,7 @@ NIKE @womb
 - 主催：Rakuten
 - 共催：PlayNEW・動Ku光
 
+![rakuten](https://github.com/ugokuhikari/photo/blob/master/rakuten0.jpg?raw=true)
 
 [引用元](https://prtimes.jp/main/html/rd/p/000000013.000041717.html)
 
