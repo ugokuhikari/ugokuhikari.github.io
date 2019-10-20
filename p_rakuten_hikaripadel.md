@@ -10,7 +10,10 @@ layout: default
 <tr>
 <td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten1.jpg?raw=true"></td>
 <td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten2.jpg?raw=true"></td>
+</tr>
+<tr>
 <td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten3.jpg?raw=true"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten4.jpg?raw=true"></td>
 </tr>
 </table>
 
