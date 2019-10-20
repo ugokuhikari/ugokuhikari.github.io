@@ -5,6 +5,8 @@ layout: default
 >
 「テクノロジー×パフォーマンス」を軸に活動しており、人が映像に合わせるのではなく、映像が人に合わせることにより誰もがパフォーマーになれるインタラクティブなCG, AR, AIを用いた演出を開発している。
 
+
+
 [引用元](https://japanese.engadget.com/2017/11/22/iiiex/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANj1c622Pehwse3X5tvGXDs1MG3kBMK7zUMGG32z24lnCrFXkvdMNzjkFUZnrkyF011vKkIhEIlnNfZaxNVgPKdVyyMGU6QQQXOM5wYZNLHDEHp_ZVoUhTYGaffbPGFJjQsYrZh-1gzoY15jTyYBcK291LpF22mE38gGGM1SnzR1)
 
 ## 2018 KICK-OFF PARTY 
@@ -31,6 +33,7 @@ layout: default
 
 全国の各支社と双方向のオンライン通信を実施。720名の社員とモニター越しにコミュニケーションを取り、計1100名（男性社員も含む）もの大所帯となった。また、同イベントは東京大学の大学院生による“光”をテーマにしたイタラクティブパフォーマンスチーム「動 Ku 光」が監修。東京都社会人サッカーリーグ3部のTOKYO CITY F.C.とコラボし、パスやドリブルを光のアートで魅せるパフォーマンスを披露した。さらに、フリースタイルフットボール集団「ArtiSTARE」によるパフォーマンスや、タレントのシンディーさんが特技のものまねを披露しながらJリーグの楽しみ方をプレゼンするなど、大きな盛り上がりを見せた。
 
+![Meiji1](https://github.com/ugokuhikari/photo/blob/master/meijiyasudaseimei/meiji.gif?raw=true)
 ![Meiji](https://github.com/ugokuhikari/photo/blob/master/meiji.jpg?raw=true)
 
 [引用元](https://www.soccer-king.jp/news/japan/jl/20181002/841273.html)
@@ -44,7 +47,7 @@ NIKE @womb
 
 7/3には、渋谷のクラブWombに一夜限りのフットサルコートが出現。ボールを動かすほどにコートが光で彩られていく、初心者でも楽しめる新感覚のチーム対抗サッカーイベント。光のインスタレーションと、クラブならではのDJによって創り上げられる非日常な空間で友達と一緒に盛り上がろう！
 
-[Link to another page](./nike_hikasaka.html).
+[OpenPage＞＞NIKE](./_nike_hikasaka.html).
 
 [引用元](https://tcfc.jp/news/detail/id/12055)
 
@@ -63,5 +66,5 @@ NIKE @womb
 
 [引用元](https://prtimes.jp/main/html/rd/p/000000013.000041717.html)
 
-[Link to another page](./rakuten_hikaripadel.html).
+[OpenPage＞＞RAKUTEN](./_rakuten_hikaripadel.html).
 
