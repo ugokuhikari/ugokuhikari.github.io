@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-# 動Ku光「Tech×Performance」
+## 動Ku光
+>
 「テクノロジー×パフォーマンス」を軸に活動しており、人が映像に合わせるのではなく、映像が人に合わせることにより誰もがパフォーマーになれるインタラクティブなCG, AR, AIを用いた演出を開発している。
 
-最近は需要と供給の関係により「Sports×Tech」集団になりつつある．．．
+[引用元](https://japanese.engadget.com/2017/11/22/iiiex/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANj1c622Pehwse3X5tvGXDs1MG3kBMK7zUMGG32z24lnCrFXkvdMNzjkFUZnrkyF011vKkIhEIlnNfZaxNVgPKdVyyMGU6QQQXOM5wYZNLHDEHp_ZVoUhTYGaffbPGFJjQsYrZh-1gzoY15jTyYBcK291LpF22mE38gGGM1SnzR1)
 
 ## 2018 KICK-OFF PARTY 
 
