@@ -5,7 +5,14 @@ layout: default
 # Rakuten Open 2019
 
 
-<img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten1.jpg?raw=true"><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten2.jpg?raw=true">
+
+<table border="0">
+<tr>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten1.jpg?raw=true"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten2.jpg?raw=true"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten3.jpg?raw=true"></td>
+</tr>
+</table>
 
 
 <img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten1.jpg?raw=true"><img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten2.jpg?raw=true">
