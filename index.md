@@ -4,19 +4,22 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./pages/nike_hikasaka.html).
+[Link to another page](./nike_hikasaka.html).
 
 
-[Link to another page](./pages/rakuten_hikaripadel.html).
+[Link to another page](./rakuten_hikaripadel.html).
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# TokyoCityFC
 
-# Header 1
+
+
+# 明治安田生命
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+# Nike LIGHTPALLETFOOTSAL
 
 > This is a blockquote following a header.
 >
