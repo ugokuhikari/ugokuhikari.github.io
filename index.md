@@ -35,8 +35,9 @@ NIKE @womb
 
 7/3には、渋谷のクラブWombに一夜限りのフットサルコートが出現。ボールを動かすほどにコートが光で彩られていく、初心者でも楽しめる新感覚のチーム対抗サッカーイベント。光のインスタレーションと、クラブならではのDJによって創り上げられる非日常な空間で友達と一緒に盛り上がろう！
 
-![Nike](https://github.com/ugokuhikari/photo/blob/master/nike1/nike0.jpg?raw=true)
-
+<div align="center">
+<img src="https://github.com/ugokuhikari/photo/blob/master/nike1/nike0.jpg?raw=true" width="90%">
+</div>
 
 [OpenPage＞＞LIGHT PALETTE FUTSAL](./p_nike_hikasaka.html).
 
@@ -53,7 +54,10 @@ NIKE @womb
 
 全国の各支社と双方向のオンライン通信を実施。720名の社員とモニター越しにコミュニケーションを取り、計1100名（男性社員も含む）もの大所帯となった。また、同イベントは東京大学の大学院生による“光”をテーマにしたイタラクティブパフォーマンスチーム「動 Ku 光」が監修。東京都社会人サッカーリーグ3部のTOKYO CITY F.C.とコラボし、パスやドリブルを光のアートで魅せるパフォーマンスを披露した。さらに、フリースタイルフットボール集団「ArtiSTARE」によるパフォーマンスや、タレントのシンディーさんが特技のものまねを披露しながらJリーグの楽しみ方をプレゼンするなど、大きな盛り上がりを見せた。
 
-<img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true"></td>
+
+<div align="center">
+<img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="90%">
+</div>
 
 
 [引用元](https://www.soccer-king.jp/news/japan/jl/20181002/841273.html)
@@ -65,9 +69,15 @@ NIKE @womb
 
 >光のアートとフットボールが融合した新しい体験型イベントをフットサルアリーナで開催
 
-![Hikasaka0](https://github.com/ugokuhikari/photo/blob/master/tfc1/hikasaka0.jpg?raw=true)
+<div align="center">
+<img src="https://github.com/ugokuhikari/photo/blob/master/tfc1/hikasaka0.gif?raw=true" width="90%">
+</div>
+
 当日は若い女性を中心に40名超が参加。前半に行われたCITY所属選手による3on3では、暗転の中、光るボールに反応してフィールド一面に描かれる光の軌跡に目を奪われた。また、後半に行われた参加者体験型のメインコ ンテンツ #ヒカサカアート では、入場時に配られたペンライトや光るボールによって描かれるアートを、#ヒカサカアソビ では、自身の動きに反応して姿を変える光のアートをSNSで共有するなどして、各々が最先端テクノロジーによるフットボール・アート・テクノロジーの融合を楽しんだ。
 
+<div align="center">
+<img src="https://github.com/ugokuhikari/photo/blob/master/tfc1/hikasaka0.jpg?raw=true" width="90%">
+</div>
 
 - ~Hikari × Soccer~
 - [ヒカサカ」TOKYO CITY F.C. 
