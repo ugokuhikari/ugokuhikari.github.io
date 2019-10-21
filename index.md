@@ -45,8 +45,8 @@ NIKE @womb
 
 <table border="0">
 <tr>
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td>
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="320"></td>
+<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="640"></td>
 </tr>
 </table>
 
@@ -55,7 +55,7 @@ NIKE @womb
 [引用元](https://www.soccer-king.jp/news/japan/jl/20181002/841273.html)
 
 
-[OpenPage＞＞LIGHT PALETTE FUTSAL](./p_mybloom2018.html).
+[OpenPage＞＞MyBloom2018](./p_mybloom2018.html).
 
 ## 2018 KICK-OFF PARTY 
 
