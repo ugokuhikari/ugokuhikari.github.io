@@ -21,7 +21,7 @@ layout: default
 
 [引用元](https://prtimes.jp/main/html/rd/p/000000013.000041717.html)
 
-[OpenPage＞＞Hikari×Padel](./p_rakuten_hikaripadel.html).
+[Photo Gallaray＞＞Hikari×Padel](./p_rakuten_hikaripadel.html).
 
 ## LIGHT PALETTE FUTSAL
 NIKE @womb
@@ -39,7 +39,7 @@ NIKE @womb
 <img src="https://github.com/ugokuhikari/photo/blob/master/nike1/nike0.jpg?raw=true" width="90%">
 </div>
 
-[OpenPage＞＞LIGHT PALETTE FUTSAL](./p_nike_hikasaka.html).
+[Photo Gallaray＞＞LIGHT PALETTE FUTSAL](./p_nike_hikasaka.html).
 
 [引用元](https://tcfc.jp/news/detail/id/12055)
 
