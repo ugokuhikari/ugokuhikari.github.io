@@ -43,6 +43,13 @@ NIKE @womb
 
 全国の各支社と双方向のオンライン通信を実施。720名の社員とモニター越しにコミュニケーションを取り、計1100名（男性社員も含む）もの大所帯となった。また、同イベントは東京大学の大学院生による“光”をテーマにしたイタラクティブパフォーマンスチーム「動 Ku 光」が監修。東京都社会人サッカーリーグ3部のTOKYO CITY F.C.とコラボし、パスやドリブルを光のアートで魅せるパフォーマンスを披露した。さらに、フリースタイルフットボール集団「ArtiSTARE」によるパフォーマンスや、タレントのシンディーさんが特技のものまねを披露しながらJリーグの楽しみ方をプレゼンするなど、大きな盛り上がりを見せた。
 
+<table border="0">
+<tr>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width=320></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.jpg?raw=true" width=320></td>
+</tr>
+</table>
+
 ![Meiji](https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true)
 
 [引用元](https://www.soccer-king.jp/news/japan/jl/20181002/841273.html)
