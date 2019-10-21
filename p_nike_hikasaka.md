@@ -18,7 +18,6 @@ layout: default
 </tr>
 </table>
 
-
 <table border="0">
 <tr>
 <td><img src="https://github.com/ugokuhikari/photo/blob/master/nike1/nike7.jpg?raw=true" width="320"></td>
