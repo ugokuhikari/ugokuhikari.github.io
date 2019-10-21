@@ -49,14 +49,14 @@ NIKE @womb
 
 >今年のテーマは“光”…明治安田生命「MY Bloom 2018」に全国から1100名が集結！
 
-
-![Meiji](https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true)
+<div align="center">
+<img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="90%">
+</div>
 
 全国の各支社と双方向のオンライン通信を実施。720名の社員とモニター越しにコミュニケーションを取り、計1100名（男性社員も含む）もの大所帯となった。また、同イベントは東京大学の大学院生による“光”をテーマにしたイタラクティブパフォーマンスチーム「動 Ku 光」が監修。東京都社会人サッカーリーグ3部のTOKYO CITY F.C.とコラボし、パスやドリブルを光のアートで魅せるパフォーマンスを披露した。さらに、フリースタイルフットボール集団「ArtiSTARE」によるパフォーマンスや、タレントのシンディーさんが特技のものまねを披露しながらJリーグの楽しみ方をプレゼンするなど、大きな盛り上がりを見せた。
 
-
 <div align="center">
-<img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="90%">
+<img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="90%">
 </div>
 
 
