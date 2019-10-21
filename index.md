@@ -46,64 +46,41 @@ NIKE @womb
 <table border="0">
 <tr>
 <!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_m0.gif?raw=true" width="480"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="640"></td>
 </tr>
 </table>
 
 <table border="0">
 <tr>
 <!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_m0.gif?raw=true" width="480"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="640"></td>
 </tr>
 </table>
 <table border="0">
 <tr>
 <!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_m0.gif?raw=true" width="480"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="640"></td>
 </tr>
 </table>
 <table border="0">
 <tr>
 <!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_m0.gif?raw=true" width="480"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="640"></td>
 </tr>
 </table>
 <table border="0">
 <tr>
 <!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_m0.gif?raw=true" width="480"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="640"></td>
 </tr>
 </table>
 <table border="0">
 <tr>
 <!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_m0.gif?raw=true" width="480"></td>
+<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true" width="640"></td>
 </tr>
 </table>
-<table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_m0.gif?raw=true" width="480"></td>
-</tr>
-</table>
-<table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_m0.gif?raw=true" width="480"></td>
-</tr>
-</table>
-<table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_m0.gif?raw=true" width="480"></td>
-</tr>
-</table>
-<table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_m0.gif?raw=true" width="480"></td>
-</tr>
-</table>
+
 ![Meiji](https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true)
 
 [引用元](https://www.soccer-king.jp/news/japan/jl/20181002/841273.html)
