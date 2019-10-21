@@ -13,6 +13,8 @@ layout: default
 > 親子で楽しめるヒカリパデル新感覚エンターテインメント
 
 <img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten0.gif?raw=true">
+<img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten0.gif?raw=true" width="100%">
+<img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten0.gif?raw=true" width="90%">
 
 
 楽天ブースの一角で楽しめる「Rakuten OPEN HIKARI×PADEL」は、テニスとスカッシュを合わせたようなラケット競技である、パデルをプレーしながら、ボールの軌道に合わせて壁が光で彩られていく、初心者でも楽しめる新感覚のアクティビティです。本イベントでは、弊社が東京大学発のパフォーマンスチーム「動ku光」と共催したイベント「#ヒカサカ」で活用したテクノロジーやノウハウが応用されている．
