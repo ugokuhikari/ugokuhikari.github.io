@@ -14,9 +14,11 @@ layout: default
 
 ![rakuten](https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten0.jpg?raw=true)
 
+
 楽天ブースの一角で楽しめる「Rakuten OPEN HIKARI×PADEL」は、テニスとスカッシュを合わせたようなラケット競技である、パデルをプレーしながら、ボールの軌道に合わせて壁が光で彩られていく、初心者でも楽しめる新感覚のアクティビティです。本イベントでは、弊社が東京大学発のパフォーマンスチーム「動ku光」と共催したイベント「#ヒカサカ」で活用したテクノロジーやノウハウが応用されている．
 
 
+<img src="https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten0.gif?raw=true"></td>
 
 [引用元](https://prtimes.jp/main/html/rd/p/000000013.000041717.html)
 
@@ -41,47 +43,13 @@ NIKE @womb
 
 >今年のテーマは“光”…明治安田生命「MY Bloom 2018」に全国から1100名が集結！
 
-全国の各支社と双方向のオンライン通信を実施。720名の社員とモニター越しにコミュニケーションを取り、計1100名（男性社員も含む）もの大所帯となった。また、同イベントは東京大学の大学院生による“光”をテーマにしたイタラクティブパフォーマンスチーム「動 Ku 光」が監修。東京都社会人サッカーリーグ3部のTOKYO CITY F.C.とコラボし、パスやドリブルを光のアートで魅せるパフォーマンスを披露した。さらに、フリースタイルフットボール集団「ArtiSTARE」によるパフォーマンスや、タレントのシンディーさんが特技のものまねを披露しながらJリーグの楽しみ方をプレゼンするなど、大きな盛り上がりを見せた。
-
-<table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true"></td>
-</tr>
-</table>
-<table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true"></td>
-</tr>
-</table><table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true"></td>
-</tr>
-</table><table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true"></td>
-</tr>
-</table><table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true"></td>
-</tr>
-</table><table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true"></td>
-</tr>
-</table><table border="0">
-<tr>
-<!--td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true" width="320"></td-->
-<td><img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true"></td>
-</tr>
-</table>
 
 ![Meiji](https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji0.jpg?raw=true)
+
+全国の各支社と双方向のオンライン通信を実施。720名の社員とモニター越しにコミュニケーションを取り、計1100名（男性社員も含む）もの大所帯となった。また、同イベントは東京大学の大学院生による“光”をテーマにしたイタラクティブパフォーマンスチーム「動 Ku 光」が監修。東京都社会人サッカーリーグ3部のTOKYO CITY F.C.とコラボし、パスやドリブルを光のアートで魅せるパフォーマンスを披露した。さらに、フリースタイルフットボール集団「ArtiSTARE」によるパフォーマンスや、タレントのシンディーさんが特技のものまねを披露しながらJリーグの楽しみ方をプレゼンするなど、大きな盛り上がりを見せた。
+
+<img src="https://github.com/ugokuhikari/photo/blob/master/meiji1/meiji_s0.gif?raw=true"></td>
+
 
 [引用元](https://www.soccer-king.jp/news/japan/jl/20181002/841273.html)
 
