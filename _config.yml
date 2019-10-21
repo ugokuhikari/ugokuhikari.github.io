@@ -1,5 +1,5 @@
 title: 動Ku光
 description: Sports×Techonology
-show_downloads: true
-google_analytics:
+show_downloads: false
+google_analytics: true
 theme: jekyll-theme-leap-day
