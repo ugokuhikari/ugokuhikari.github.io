@@ -33,4 +33,5 @@ layout: default
 </table>
 
 
-[back](./)
+[Back >> Main Page](./)
+
