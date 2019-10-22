@@ -2,7 +2,9 @@
 layout: default
 ---
 
-動Ku光ってなに？の疑問に答えるためのページ．
+つまり動Ku光ってなに？
+インタラクティブってどんなの？
+などの疑問に答えるためのページ．
 
 ## 動Ku光
 >
@@ -92,7 +94,7 @@ NIKE @womb
 
 
 ## 制作展
-「テクノロジー×パフォーマンス」を軸に活動しており、人が映像に合わせるのではなく、映像が人に合わせることにより誰もがパフォーマーになれるインタラクティブなCG, AR, AIを用いた演出を開発している。
+人の動きに合わせて背景が変わるDynamic演出を披露した。
 
 <div align="center">
 <img src="https://github.com/ugokuhikari/photo/blob/master/ugoku/ugoku0.gif?raw=true" width="90%">
