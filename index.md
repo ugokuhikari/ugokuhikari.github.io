@@ -88,6 +88,10 @@ NIKE @womb
 [引用元](https://www.soccer-king.jp/news/japan/20180323/732834.html)
 
 
+
+[Go To Event](https://ugokuhikari.github.io/p_rakuten_hikaripadel.html)
+
+
 ## Hikari×Idol
 
 
