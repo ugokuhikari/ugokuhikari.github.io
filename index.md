@@ -89,7 +89,7 @@ NIKE @womb
 
 
 
-[Go To Event](https://ugokuhikari.github.io/p_rakuten_hikaripadel.html)
+[Go To Event](https://ugokuhikari.github.io/p0_online_event.html)
 
 
 ## Hikari×Idol
