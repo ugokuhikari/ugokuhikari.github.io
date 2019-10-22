@@ -20,7 +20,7 @@
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
-
+      {% if site.show_button %}
       <div id="banner">
         <div class="page_button">
           <ul>
@@ -29,7 +29,7 @@
             <li><a href="https://ugokuhikari.github.io/p0_contact.html" class="button"><strong>Contact</strong></a></li>
           </ul>
         </div>
-        
+        {% endif %}
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
