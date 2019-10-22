@@ -93,6 +93,13 @@ NIKE @womb
 [元記事](https://www.soccer-king.jp/news/japan/20180323/732834.html)
 
 
+## Hikari×Idol
+アイドルグループDotsTokyoとコラボし誕生日サプライズ演出などを行った．
+<div align="center">
+<img src="https://github.com/ugokuhikari/photo/blob/master/dots0/dots0.gif?raw=true" width="90%">
+</div>
+
+
 ## 制作展
 人の動きに合わせて背景が変わるDynamic演出を披露した。
 
