@@ -7,7 +7,7 @@ layout: default
 
 イベントの写真がリアルいタイムに更新されていきます
 
-<table border="1">
+<table border="０">
 <tr>
 <td><img src="https://github.com/ugokuhikari/photo/blob/master/online1/online1.jpg?raw=true" width="320"></td>
 <td><img src="https://github.com/ugokuhikari/photo/blob/master/online1/online2.jpg?raw=true" width="320"></td>
