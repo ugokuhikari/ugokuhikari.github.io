@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Online Event
+## Online Event
+
+イベントの写真がリアルいタイムに更新されていきます
 
 <table border="1">
 <tr>
