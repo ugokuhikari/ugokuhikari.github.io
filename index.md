@@ -6,6 +6,10 @@ layout: default
 「テクノロジー×パフォーマンス」を軸に活動しており、人が映像に合わせるのではなく、映像が人に合わせることにより誰もがパフォーマーになれるインタラクティブなCG, AR, AIを用いた演出を開発している。
 
 
+<div align="center">
+<img src="https://github.com/ugokuhikari/photo/blob/master/ugoku/ugoku0.gif?raw=true" width="90%">
+</div>
+
 [元記事](https://japanese.engadget.com/2017/11/22/iiiex/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANj1c622Pehwse3X5tvGXDs1MG3kBMK7zUMGG32z24lnCrFXkvdMNzjkFUZnrkyF011vKkIhEIlnNfZaxNVgPKdVyyMGU6QQQXOM5wYZNLHDEHp_ZVoUhTYGaffbPGFJjQsYrZh-1gzoY15jTyYBcK291LpF22mE38gGGM1SnzR1)
 
 
