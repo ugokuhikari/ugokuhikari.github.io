@@ -3,7 +3,9 @@ layout: default
 ---
 
 つまり動Ku光ってなに？
+
 インタラクティブってどんなの？
+
 などの疑問に答えるためのページ．
 
 ## 動Ku光
@@ -84,11 +86,6 @@ NIKE @womb
 <img src="https://github.com/ugokuhikari/photo/blob/master/tfc1/hikasaka0.jpg?raw=true" width="90%">
 </div-->
 
-- ~Hikari × Soccer~
-- [ヒカサカ」TOKYO CITY F.C. 
-- 主催：TOKYO CITY F.C.
-- 共催：動Ku光(東京大学)
-- 特別協力：すみだフットサルアリーナ
 
 [元記事](https://www.soccer-king.jp/news/japan/20180323/732834.html)
 
@@ -98,6 +95,7 @@ NIKE @womb
 <div align="center">
 <img src="https://github.com/ugokuhikari/photo/blob/master/dots1/dots0.gif?raw=true" width="90%">
 </div>
+
 
 
 ## 制作展
