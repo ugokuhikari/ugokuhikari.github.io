@@ -4,7 +4,7 @@ layout: default
 
 # Online Event
 
-<table border="5">
+<table border="1">
 <tr>
 <td><img src="https://github.com/ugokuhikari/photo/blob/master/online1/online1.jpg?raw=true" width="320"></td>
 <td><img src="https://github.com/ugokuhikari/photo/blob/master/online1/online2.jpg?raw=true" width="320"></td>
