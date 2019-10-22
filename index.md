@@ -96,7 +96,7 @@ NIKE @womb
 ## Hikari×Idol
 アイドルグループDotsTokyoとコラボし誕生日サプライズ演出などを行った．
 <div align="center">
-<img src="https://github.com/ugokuhikari/photo/blob/master/dots0/dots0.gif?raw=true" width="90%">
+<img src="https://github.com/ugokuhikari/photo/blob/master/dots1/dots0.gif?raw=true" width="90%">
 </div>
 
 
