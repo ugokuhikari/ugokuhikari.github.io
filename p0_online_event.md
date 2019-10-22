@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Online Event
+## 動Ku光
+
 
 イベントの写真がリアルいタイムに更新されていきます
 
