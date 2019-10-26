@@ -13,8 +13,6 @@ layout: default
 「テクノロジー×パフォーマンス」を軸に活動しており、人が映像に合わせるのではなく、映像が人に合わせることにより誰もがパフォーマーになれるインタラクティブなCG, AR, AIを用いた演出を開発している。
 
 
-[Go To Event](https://ugokuhikari.github.io/p0_online_event.html)
-
 
 ## Rakuten Open
 > 親子で楽しめるヒカリパデル新感覚エンターテインメント
@@ -26,7 +24,7 @@ layout: default
 
 <!--![rakuten](https://github.com/ugokuhikari/photo/blob/master/rakuten1/rakuten0.jpg?raw=true).-->
 
-[元記事](https://prtimes.jp/main/html/rd/p/000000013.000041717.html)
+[紹介記事](https://prtimes.jp/main/html/rd/p/000000013.000041717.html)
 
 <!--[Photo Gallaray＞＞Hikari×Padel](./p_rakuten_hikaripadel.html).-->
 
@@ -48,7 +46,7 @@ NIKE @womb
 
 <!--[Photo Gallaray＞＞LIGHT PALETTE FUTSAL](./p_nike_hikasaka.html).-->
 
-[元記事](https://tcfc.jp/news/detail/id/12055)
+[紹介記事](https://tcfc.jp/news/detail/id/12055)
 
 
 ## MY Bloom 2018
@@ -67,7 +65,7 @@ NIKE @womb
 </div-->
 
 
-[元記事](https://www.soccer-king.jp/news/japan/jl/20181002/841273.html)
+[紹介記事](https://www.soccer-king.jp/news/japan/jl/20181002/841273.html)
 
 
 <!--[OpenPage＞＞MyBloom2018](./p_mybloom2018.html).-->
@@ -87,7 +85,7 @@ NIKE @womb
 </div-->
 
 
-[元記事](https://www.soccer-king.jp/news/japan/20180323/732834.html)
+[紹介記事](https://www.soccer-king.jp/news/japan/20180323/732834.html)
 
 
 ## Hikari×Idol
@@ -99,11 +97,14 @@ NIKE @womb
 
 
 ## 制作展
-人の動きに合わせて背景が変わるDynamic演出を披露した。
+人の動きに合わせて背景が変わる演出を披露した。
 
 <div align="center">
 <img src="https://github.com/ugokuhikari/photo/blob/master/ugoku/ugoku0.gif?raw=true" width="90%">
 </div>
 
-[元記事](https://japanese.engadget.com/2017/11/22/iiiex/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANj1c622Pehwse3X5tvGXDs1MG3kBMK7zUMGG32z24lnCrFXkvdMNzjkFUZnrkyF011vKkIhEIlnNfZaxNVgPKdVyyMGU6QQQXOM5wYZNLHDEHp_ZVoUhTYGaffbPGFJjQsYrZh-1gzoY15jTyYBcK291LpF22mE38gGGM1SnzR1)
+[紹介記事](https://japanese.engadget.com/2017/11/22/iiiex/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANj1c622Pehwse3X5tvGXDs1MG3kBMK7zUMGG32z24lnCrFXkvdMNzjkFUZnrkyF011vKkIhEIlnNfZaxNVgPKdVyyMGU6QQQXOM5wYZNLHDEHp_ZVoUhTYGaffbPGFJjQsYrZh-1gzoY15jTyYBcK291LpF22mE38gGGM1SnzR1)
 
+<!--div align="left">
+    <a href= "https://ugokuhikari.github.io/p0_online_event.html">Go To Event</a>
+</div-->
